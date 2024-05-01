@@ -1,0 +1,23 @@
+#text {
+    width: 500px;
+    height: 300px;
+
+}
+#text:focus {
+    outline: none;
+}
+.all {
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    flex-wrap: wrap;
+}
+.borderColor-red {
+    border-color: red;
+}
+.borderColor-blue {
+    border-color: deepskyblue;
+
+}
